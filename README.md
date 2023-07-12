@@ -6,7 +6,8 @@ Database : MongoDB
 
 Some samples of project : 
 
-https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
+![image](https://github.com/Pushkariiit/expenses-management-app/assets/96918138/a4ca745f-f134-448b-83ea-c092ad2052b4)
+
 
 ![image](https://github.com/Pushkariiit/expenses-management-app/assets/96918138/f9f95a44-e22a-4f48-81cc-c1723a0621c4)
 
