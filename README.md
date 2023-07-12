@@ -4,6 +4,13 @@ Frontend : ReactJs, CSS , ANTD
 Backend : NodeJS, ExpressJs
 Database : MongoDB
 
+o	Completely Dynamic and Responsive website made using MERN.
+o	User can keep track of their expenses using this app and it also has custom datePicker feature.
+o	The webapp provides the graphical and other progress features to keep track in user friendly manner. 
+o	Also user can edit and delete their expenses if required.
+o	Website has authentication feature so user can keep their data with them and they require email and password to access them.
+
+
 Some samples of project : 
 
 ![image](https://github.com/Pushkariiit/expenses-management-app/assets/96918138/a4ca745f-f134-448b-83ea-c092ad2052b4)
